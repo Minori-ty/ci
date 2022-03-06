@@ -31,7 +31,7 @@ jobs:
               run: npm run build
 
             # 上传阿里云
-            - name: 发布到阿里云
+            - name: 发布到腾讯云
               uses: easingthemes/ssh-deploy@v2.1.1
               env:
                   # 私钥
