@@ -6,6 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
     <h1>CI/CD</h1>
+    <p>这是测试的内容</p>
 </template>
 
 <style>
